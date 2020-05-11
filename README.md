@@ -1,2 +1,2 @@
 # Android-Bluetooth-Arduino
-Control Arduino inputs outputs via Bluetooth
+Basic for Android (B4A) app to control Arduino inputs outputs via Bluetooth.
